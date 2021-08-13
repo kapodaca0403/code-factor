@@ -51,6 +51,12 @@ p {
   font-size: 16px;
 }
 
+.content {
+  width: 75%;
+  display: inline-block;
+  margin-left: 20px;
+}
+
 .hero {
   height: 800px;
   width: 100%;
@@ -58,12 +64,6 @@ p {
   background-image: url("../images/digital-marketing-meeting.jpg");
   background-size: cover;
   background-position: center;
-}
-
-.content {
-  width: 75%;
-  display: inline-block;
-  margin-left: 20px;
 }
 
 .float-left {
@@ -85,6 +85,7 @@ p {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #0072bb;
   color: #ffffff;
+  display: inline-block;
 }
 
 .search-engine-optimization img,
